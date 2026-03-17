@@ -67,8 +67,3 @@ If you're working on a game and need localization that *feels native*, not just 
 
 📩 Feel free to reach out.
 
----
-
-## 📷 (Optional)
-
-*Add screenshots of the game running in Spanish here*
